@@ -1,0 +1,49 @@
+ <?xml version="1.0"?>
+  <datos>
+  <persona>
+  <nombre> Pedro </nombre>
+  <ciudad> La Plata </ciudad> 
+  <edad> 23 </edad>
+  <equipo> Boca </equipo>
+	    <familia>
+			<hijo>
+				<nombre> 'Maria Sanchez </nombre> 
+				<edad> 2 </edad>
+			</hijo>					
+			<hijo>
+				<nombre> Maria Sanchez </nombre>
+				<edad> 2 </edad>
+			</hijo>
+		</familia>	
+	</persona>			
+	
+	<persona>	
+	<nombre> Juan Tevez </nombre>
+	<ciudad> La Plata </ciudad>
+	<edad> 23 </edad>
+	<equipo> Boca </equipo>
+		<familia>
+			<hijo>
+				<nombre> Pedro Tevez >/nombre>
+				<edad> 2 </edad>
+			</hijo>	
+		</familia>		
+    </persona>					
+	
+	<persona>	
+	<nombre> Mario Scala </nombre>
+    <ciudad> La Plata </ciudad>
+	<edad> 23 </edad>
+    <equipo> Boca </equipo>
+		<familia>
+			<hijo>
+				<nombre> Pedro Tevez </nombre>
+				<edad> 2 </edad>
+			</hijo>	
+		</familia>	
+	</persona>	
+	
+	</datos>
+	
+	
+	
