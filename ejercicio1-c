@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<dato>
+
+<registro1>
+<lugar> La plata </lugar>
+<persona>
+<nombre> Pedro Sanchez </nombre>
+<edad> 23 años </edad>
+</persona>
+<persona>
+<nombre> Juan Tevez </nombre>
+<edad> 23 años </edad>
+</persona>
+<persona>
+<nombre> Mario Scala </nombre>
+<edad> 23 años </edad>
+</persona>
+</registro1>
+
+<registro2>
+<lugar> Berisso </lugar>
+<persona>
+<nombre> Mariana Lopez </nombre>
+<edad> 25 años </edad>
+</persona>
+<persona>
+<nombre> Maria Gimenez </nombre>
+<edad> 20 años </edad>
+</persona>
+<persona>
+<nombre> Jose Trano </nombre>
+<edad> 30 años </edad>
+</persona>
+</registro2>
+
+<registro3>
+<lugar> Ensenada </lugar>
+<persona>
+<nombre> Ariel Mango </nombre>
+<edad> 18 años </edad>
+</persona>
+<persona>
+<nombre> Ulises Prio </nombre>
+<edad> 28 años </edad>
+</persona>
+<persona>
+<nombre> Marta Perez </nombre>
+<edad> 60 años </edad>
+</persona>
+</registro3>
+
+</dato>
