@@ -1,0 +1,19 @@
+{ "personas":[ 
+  
+   { 'nombre': 'Pedro Sanchez',
+     'ciudad':' La Plata',
+	 'edad': 23,
+	'EQUIPO': Boca},
+	
+	{ 'nombre': 'Juan Tevez',
+     'ciudad':' La Plata',
+	 'edad': 23,
+	'EQUIPO': Boca},
+	
+	{ 'nombre': 'Mario Scala',
+     'ciudad':' La Plata',
+	 'edad': 23,
+	'EQUIPO': Boca},
+	
+	]}
+	
